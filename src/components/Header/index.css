@@ -1,0 +1,10 @@
+.header-container {
+  background-color: #cbd5e1;
+  color: #475569;
+  width: 82%;
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+.header-heading {
+  text-align: center;
+}

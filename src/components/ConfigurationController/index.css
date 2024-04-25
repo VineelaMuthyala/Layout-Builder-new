@@ -1,0 +1,16 @@
+.controller-container {
+  background-color: #475569;
+  color: white;
+  padding-left: 70px;
+  padding-bottom: 10px;
+}
+.checkbox-container {
+  padding: 5px;
+}
+.checkbox-label {
+  margin-left: 10px;
+  font-size: 12px;
+}
+.layout-heading {
+  font-size: 27px;
+}
