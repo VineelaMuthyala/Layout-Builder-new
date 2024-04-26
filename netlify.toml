@@ -1,2 +1,3 @@
-[build]
-   functions = "functions"
+[build]	
+    command = "run build"
+    build = "build"
